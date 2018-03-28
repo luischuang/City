@@ -2,8 +2,10 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+<head><title>后台-侧栏</title>
   <link type="text/css" rel="stylesheet" href="../css/style.css">
     <base href="${pageContext.request.contextPath}/">
+  <link rel="stylesheet" type="text/css" href="themes/default/easyui.css"/>
 	<link rel="stylesheet" type="text/css" href="themes/icon.css"/>
 <link rel="stylesheet" type="text/css" href="css/demo.css"/>
 <script type="text/javascript" src="jquery.min.js"></script>
