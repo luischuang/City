@@ -1,0 +1,22 @@
+/* CSS Document */
+#contain{ width:920px; height:1300px; margin:0px auto;}
+	#top{ width:920px; height:93px; background:url(../images/admin_top.jpg) no-repeat;}
+		.top_sy{ width:92px; height:31px; float:right; margin-top:62px;}
+		.top_exit{ width:92px; height:31px; float:right; margin-top:62px;}
+	#ad{ width:920px; height:7px; background-color:#CCC;}
+	#left{ width:690px; height:440px; float:left; margin:-8px; padding-top:8px;}
+	#right{ width:230px; float:left; font-size:12px; margin-left:16px;}
+		.r_t{ width:230px; height:177px;}
+			.r_t_t{ border:1px solid #CCC; background-color:#f0f0f0; width:218px; height:20px;color:#004790; margin-top:10px; padding:5px; float:left;}
+			.r_t_m{ border:1px solid #CCC; width:228px; height:100px; float:left; margin-top:2px;}
+			.r_t_f{ background-color:#CCC; width:218px; height:20px; padding:6px; float:left;}
+				.r_t_f a{ text-decoration:none;}
+		.r_m{ width:230px; height:112px;}
+			.r_m_t {border:1px solid #CCC; background-color:#f0f0f0; width:218px; height:20px;color:#004790; margin-top:10px; padding:5px; float:left;}
+			.r_m_f{ border:1px solid #CCC; width:213px; height:62px; padding:5px; float:left;padding-left:10px; margin-top:2px; text-align:center;}
+			a{ text-decoration:none; color:black;}
+			a:hover{ color:orange;}
+		.r_f{ width:230px;}
+			.r_f_t{ border:1px solid #CCC; background-color:#f0f0f0; width:218px; height:20px;color:#004790; margin-top:10px; padding:5px; float:left;}
+			.r_f_f{ border:1px solid #CCC; width:228px; height:215px;float:left;}
+	#footer{ background:url(../images/end.jpg) no-repeat; margin-top:5px; width:920px; height:500px; float:left;}

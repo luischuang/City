@@ -1,0 +1,5 @@
+/* CSS Document */
+#contain{ width:690px; height:440px; float:left;}
+		.l_t{ width:690px; height:20px; background:url(../images/default_t.jpg) no-repeat;}
+		.l_m{ width:630px; height:332px; background:url(../images/default_m.jpg) no-repeat; padding:30px;}
+		.l_f{ width:690px; height:27px; background:url(../images/default_e.jpg) no-repeat;}

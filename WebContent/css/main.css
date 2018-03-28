@@ -1,0 +1,20 @@
+/* CSS Document */
+#contain{ width:670px; height:1300px; margin-left:10px;}
+a{ text-decoration:none; color:#000;}
+a:hover{ text-decoration:none; color:#F0F;}
+	#top{ width:670px; height:160px; float:left;}
+		.top_t{ width:670px; height:20px;}
+			.li_t{ list-style:square; font-size:12px; color:#004790; font:bold; font-size:12px;}
+		.top_c{ border:1px solid #CCC; background-color:#fafcf5;}
+			.t_ul{ width:670px; height:100px; margin-top:2px;}
+			.t_c_li{ list-style:none; float:left; width:330px; margin-left:-20px; font-size:14px; margin-top:2px;}
+	#ad{ background:url(../images/pcard2.jpg) no-repeat; width:670px; height:84px; background-color:#F00; float:left;}
+	#foot{ width:670px; height:1064px; float:left; font-size:12px;}
+		.foot_t{ width:670px; height:20px;}
+			.foot_li_t{ list-style:square; font-size:12px; color:#004790; font:bold; font-size:12px;}
+		.foot_b{ width:670px; height:1032px;}
+			.blank{ width:325px; height:165px;float:left; margin-left:5px; margin-top:5px;}
+			.f_box{ width:325px; height:165px; border:1px solid #CCC; background-color:#fafcf5; float:left; margin-left:5px; margin-top:5px;}
+				.f_b_t{ width:325px; height:24px; background-color:#00b48f; margin:0px; padding-top:6px; float:left;}
+				.f_b_m{ width:325px; height:115px; float:left;}
+				.f_b_b{ width:45px; height:20px; float:right;}

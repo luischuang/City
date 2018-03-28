@@ -1,0 +1,25 @@
+/* CSS Document */
+#contain{ width:920px; height:1570px; margin:0px auto; margin-top:-28px;}
+	#link{ width:920px; height:28px; float:left;}
+		.l_l{ width:300px; height:16px; float:left; font-size:12px; margin-left:-28px;}
+		.l_r{ width:260px; height:16px; float:right; font-size:12px;}
+		.l_li{ list-style:none; float:left; margin:0px 5px;}
+			.l_li a{ text-decoration:none; color:#808080;}
+			.l_li a:hover{ color:#F0F;}
+	#header{ width:920px; height:57px; float:left;}
+		.h_l{ width:220px; height:56px; background:url(../images/logo.gif) no-repeat; float:left;}
+		.h_r{ width:615px; height:56px; background:url(../images/menu.gif) no-repeat; float:left; padding-left:85px;}
+			.h_li{ list-style:none; float:left; width:80px; text-align:center;}
+				.h_li a{ text-decoration:none; color:#FFF; font-size:12px; width:80px;}
+				.h_li a:hover{ text-decoration:underline;}
+	#ad{ background:url(../images/pcard1.jpg) no-repeat; width:920px; height:112px; float:left;}
+	#main{ width:920px; height:1320px; float:left;}
+		.m_l{ width:230px; height:400px; float:left;}
+			.m_li{ list-style:square; color:#004790; margin-left:-20px;}
+			.m_li_top{ background:url(../images/leftD.jpg) no-repeat; list-style:none; width:225px; height:215px; margin-left:-35px; margin-top:10px;}
+			#m_li_top1{ width:225px; height:17px; text-align:center; padding-top:6px;}
+			#m_li_top2{ background:url(../images/rili.bmp) no-repeat 33px -55px; list-style:none; width:256px; height:205px; margin-left:-35px;}
+			.m_li_foot{ background:url(../images/leftS.jpg) no-repeat; list-style:none; width:225px; height:93px; background-color:#F00; margin-left:-35px; margin-top:10px; font-size:12px; padding-top:10px}
+				.m_li_foot table{ font-size:12px;}
+		.m_r{ width:670px; height:1320px; float:left;}
+	#footer{ width:920px; height:53px; background:url(../images/end.jpg) no-repeat; background-color:#F00; float:left;}

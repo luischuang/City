@@ -1,0 +1,10 @@
+/* CSS Document */
+#contain{ width:690px;float:left;}
+		.l_t{ width:690px; height:20px; background:url(../images/default_t.jpg) no-repeat;}
+		.l_m{ width:630px; background:url(../images/default_m.jpg); padding:30px;}
+			.title{ font-size:12px; font:bold; width:630px; height:20px;}
+			.context{ border:1px solid #CCC; width:630px;font-size:14px;}
+				a{ text-decoration:none; color:#000;}
+				a:hover{ color:#F0F;}
+		.l_f{ width:690px; height:27px; background:url(../images/default_e.jpg) no-repeat;}
+		

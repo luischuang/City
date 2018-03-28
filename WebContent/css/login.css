@@ -1,0 +1,7 @@
+/* CSS Document */
+#contain{ background:url(../images/back.gif);}
+	#main{ width:545px; height:300px; margin:0px auto; margin-top:200px;}
+		#top{ background:url(../images/logon_top.gif) no-repeat; width:545px; height:96px;}
+		#middle{ background:url(../images/logon_middle.gif);width:545px; height:140px; font-size:14px; padding-top:50px;}
+			a{ text-decoration:none; color:#000; font-size:12px;}
+		#end{ background:url(../images/logon_end.gif) no-repeat;width:545px; height:14px; } 

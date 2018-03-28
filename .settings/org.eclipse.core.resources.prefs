@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/qst/dao/InfoDao.java=UTF-8
+encoding//src/qst/dao/UserDao.java=UTF-8
+encoding//src/qst/servlet/GoindexServlet.java=UTF-8
+encoding//src/qst/servlet/SearchInfoServlet.java=UTF-8
+encoding//src/qst/servlet/UserServlet.java=UTF-8
+encoding//src/qst/util/JDBCUtil.java=UTF-8
